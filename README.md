@@ -1,2 +1,2 @@
-# Anime-telegram-bot
-Telegram bot for anime style image conversion
+# Anime Painter Bot
+Telegram bot that converts images to anime style using AI.
